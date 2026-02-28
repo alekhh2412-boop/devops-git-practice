@@ -108,4 +108,4 @@ git diff
 ### new cmd adding
 git branch
 shows currunt branch
-
+done...
