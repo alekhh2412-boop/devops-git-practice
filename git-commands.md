@@ -104,3 +104,10 @@ git log --oneline
 **Example:**
 ```bash
 git diff
+
+### git branch 
+**what it does:**
+-shows how many branches are there
+**Example:**
+git branch 
+
