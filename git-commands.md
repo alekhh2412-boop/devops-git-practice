@@ -105,7 +105,9 @@ git log --oneline
 ```bash
 git diff
 
-### new cmd adding
+### git branch
+-shows how many command are there
+**Example:**
 git branch
-shows currunt branch
-done...
+
+
